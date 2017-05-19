@@ -86,4 +86,5 @@ HTML5可复用模板，尽可能保持简洁。
 
 ## 参考
 
+* [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 * [http://fex.baidu.com/blog/2014/10/html-head-tags/](http://fex.baidu.com/blog/2014/10/html-head-tags/)
